@@ -4,7 +4,8 @@
     "button": "Натисни мене",
     "description": "Це простий приклад використання i18next у React для зміни мови",
     "menuLabel": "Головна",
-    "linkDoc": "Посилання i18next:",
+    "linkDoc": "Посилання i18next",
+    "linkLesson": "Посилання На Теорію",
     "buttonCode": "Код Hook"
   },
   "about": {

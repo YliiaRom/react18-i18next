@@ -5,6 +5,7 @@
     "description": "This is a simple example of i18next in React.",
     "menuLabel": "Home",
     "linkDoc": "Link i18next:",
+    "linkLesson": "Link theory",
     "buttonCode": "Code Hook"
   },
   "about": {

@@ -16,6 +16,10 @@ function MyComponentTest18next() {
         {t("home.linkDoc")} https://react.i18next.com/guides/quick-start
       </a>{" "}
       <br />
+      <a href="https://www.youtube.com/live/AokEUO1Frt4" target="_blank">
+        {t("home.linkLesson")}
+      </a>
+      <br />
       <br />
       <hr />
       <LangSelect />
